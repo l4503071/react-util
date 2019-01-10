@@ -1,0 +1,10 @@
+.user-agent {
+  padding: 50px 100px;
+  .item {
+    display: flex;
+    .text {
+      flex: 1;
+      padding: 5px 10px;
+    }
+  }
+}
