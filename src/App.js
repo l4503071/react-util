@@ -1,9 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
-import UserAgent from './pages/user_agent/index'
-
-console.log(UserAgent)
+import UserAgent from './pages/user_agent/index';
 
 function BaseRouter() {
   return (
